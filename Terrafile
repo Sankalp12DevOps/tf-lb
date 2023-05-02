@@ -1,0 +1,3 @@
+  lb:
+    source:    "https://github.com/Sankalp12DevOps/tf-module-lb.git"
+    version:   "main"
